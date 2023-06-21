@@ -3870,3 +3870,11 @@ input, select, textarea {
 .kevin{
 	width: 150px;
 }
+
+@media screen and (max-width: 360px) {
+	
+	.card-pic {
+		width: 200px;
+		height: 126px;
+	  }
+}
