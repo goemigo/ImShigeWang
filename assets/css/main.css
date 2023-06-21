@@ -3871,7 +3871,7 @@ input, select, textarea {
 	width: 150px;
 }
 
-@media screen and (max-width: 360px) {
+@media screen and (max-width: 510px) {
 	
 	.card-pic {
 		width: 200px;
