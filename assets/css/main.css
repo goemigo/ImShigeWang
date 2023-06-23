@@ -3964,7 +3964,7 @@ input, select, textarea {
 }
 .carousel {
 	height: 450px;
-	width: 80%;
+	width: 100%;
 	overflow: hidden;
 	text-align: center;
 	position: relative;
