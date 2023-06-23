@@ -3950,16 +3950,17 @@ input, select, textarea {
 
 @media screen and (max-width: 400px) {
 	.caropic {
-		width: 150px;
-		height: 112px;
+		/* width: 150px;
+		height: 112px; */
 	}
 
 	.carousel__activator:checked ~ .carousel__indicators {
-		bottom: 250px;
+		bottom: 200px;
 	  }
 
 	.carousel__activator:checked ~ .carousel__controls .carousel__control {
-		top:20%;
+		/* top:20%; */
+		display: none;
 	  }
 }
 .carousel {
